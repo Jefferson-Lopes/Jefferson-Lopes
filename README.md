@@ -29,8 +29,8 @@
   <code><img width="10%" src="https://vhdl.es/wp-content/uploads/2018/12/logovhdl2.jpg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="5%" src="https://i.postimg.cc/W1BJLP5L/C.png"></code>
-  <code><img width="5%" src="https://i.postimg.cc/fyqJH4VP/C.png"></code>
+  <code><img width="4%" src="https://i.postimg.cc/W1BJLP5L/C.png"></code>
+  <code><img width="4%" src="https://i.postimg.cc/fyqJH4VP/C.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 </p>
 
