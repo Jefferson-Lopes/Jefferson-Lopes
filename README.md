@@ -34,8 +34,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=Correlator)]()
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=Correlator)]()
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=Correlator)](https://github.com/Jefferson-Lopes/Correlator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=FPGA)](https://github.com/Jefferson-Lopes/FPGA)
 
 
 <!--
