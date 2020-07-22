@@ -13,9 +13,6 @@
     <img width="55%" align="right" alt="Jefferson's github stats" src="https://github-readme-stats.vercel.app/api?username=Jefferson-Lopes&show_icons=true" />
   </a>
   
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -34,21 +31,11 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=Correlator)](https://github.com/Jefferson-Lopes/Correlator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=FPGA)](https://github.com/Jefferson-Lopes/FPGA)
-
-
-<!--
-**Jefferson-Lopes/Jefferson-Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Jefferson-Lopes/Correlator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=Correlator" />
+  </a>
+  <a href="https://github.com/Jefferson-Lopes/FPGA">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=FPGA" />
+  </a>
+</p>
