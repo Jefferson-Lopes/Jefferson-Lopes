@@ -32,10 +32,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jefferson-Lopes/Correlator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=Correlator" />
+  <a href="https://github.com/Jefferson-Lopes/FFT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=FFT" />
   </a>
-  <a href="https://github.com/Jefferson-Lopes/FPGA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=FPGA" />
+  <a href="https://github.com/Jefferson-Lopes/TwoMPU6050">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jefferson-Lopes&repo=TwoMPU6050" />
   </a>
 </p>
